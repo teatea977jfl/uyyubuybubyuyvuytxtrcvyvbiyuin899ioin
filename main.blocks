@@ -1,4 +1,28 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="PYxPL8[R)Ig]N*#/pZ)z" x="0" y="0"></block><block type="basic_show_icon" id="-DNWw{UOtkuH;R-bVfsk" disabled="true" x="-88" y="305"><field name="i">IconNames.Heart</field></block><block type="pxt-on-start" id="x;Hl+H$h4da7+t={4$Hf" x="-368" y="901"><statement name="HANDLER"><block type="device_show_leds" id="ca=9k@)?h6ACYC!XYuHw"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="PYxPL8[R)Ig]N*#/pZ)z" x="137" y="-39"></block><block type="device_show_leds" id="A#Cazva*o/`A$P2n}tBD" disabled="true" x="285" y="9"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field></block><block type="device_show_leds" id="Eu#v{B-2!z%@?20){mSn" disabled="true" x="-39" y="367"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # # 
+        . # . # . 
+        . # . # .
+        `</field></block><block type="device_show_leds" id="B]|mCCQ}{I}i`IZ{]{+:" disabled="true" x="-55" y="667"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # # . 
+        . . . # .
+        `</field></block><block type="device_show_leds" id="Xzs1eUnc}vQH[d2;tM(8" disabled="true" x="215" y="660"><field name="LEDS">`
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="pxt-on-start" id="x;Hl+H$h4da7+t={4$Hf" x="-368" y="901"><statement name="HANDLER"><block type="device_show_leds" id="ca=9k@)?h6ACYC!XYuHw"><field name="LEDS">`
         # . . # . 
         # . . # . 
         # # # # . 
@@ -34,4 +58,10 @@
         # # # # # 
         . # # # . 
         . . # . .
-        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_leds" id="X;7;Pts`L9p4{!rDB{]3" disabled="true" x="48" y="882"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="basic_show_icon" id="-DNWw{UOtkuH;R-bVfsk" disabled="true"><field name="i">IconNames.Heart</field></block></next></block></xml>
